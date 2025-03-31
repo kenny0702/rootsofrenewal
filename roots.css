@@ -5,7 +5,7 @@
   text-decoration: none;
   border: none;
   outline: none;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 body {
@@ -50,8 +50,8 @@ nav a {
 
 nav a:hover,
 nav a.active {
-  background-color: #a7c957;
-  color: #2c6e49;
+  background-color: grey;
+  color: white;
   border-bottom: 3px solid rgb(100, 177, 100);
 }
 .logo img {
